@@ -18,9 +18,17 @@ Google Docs Reader is a Chrome extension that allows you to quickly toggle betwe
 1. Open any Google Docs, Sheets, or Slides file.
 1. Click the extension icon to switch between **edit** and **preview**.
 
-## Permissions
-The extension requires **minimal permissions**:
-- **`tabs`** → Needed to modify the active tab’s URL when clicked.
+
+## Privacy Policy
+
+Google Docs Reader is designed with **user privacy in mind** and follows a strict **no data collection** policy.
+
+- **No tracking** – The extension does not collect, store, or share any user data.
+- **No access to page content** – It does not read, modify, or interact with the content of Google Docs, Sheets, or Slides.
+- **No background processes** – The extension only runs when manually clicked by the user.
+- **Minimal permissions** – Requires only the `"tabs"` permission to update the active tab’s URL.
+
+This extension complies with Chrome Web Store policies by ensuring **full user control and transparency**.
 
 ## License
 This extension is released under the **MIT License**. Feel free to use and modify it!
